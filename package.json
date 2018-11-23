@@ -1,0 +1,24 @@
+{
+    "name": "arturguedes.replace",
+    "title": "Minimal Replace",
+    "description": "Have super clean HTML by dynamically inserting content into your code and generate a unified file with Minimal Replace.",
+    "homepage": "https://github.com/ArturGuedes/MinimalReplace",
+    "version": "1.0.0",
+    "author": {
+        "name": "Artur Guedes",
+        "url": "https://github.com/ArturGuedes"
+    },
+    "license": "GPL-3.0",
+    "keywords": ["bind", "clean", "css", "data", "html", "javascript", "js", "minimal", "minimalist"],
+    "i18n": ["en", "pt-br", "pt-pt"],
+    "package-i18n": {
+        "pt-br": {
+            "description": "Tenha o HTML super limpo, inserindo dinamicamente o conteúdo no seu codigo e gere um arquivo unificado com o Minimal Replace.",
+            "keywords": ["css", "dados", "html", "javascript", "js", "ligar", "limpo", "minimo", "minimalista"]
+        },
+        "pt-pt": {
+            "description": "Tenha o HTML super limpo, inserindo dinamicamente o conteúdo no seu codigo e gere um arquivo unificado com o Minimal Replace.",
+            "keywords": ["css", "dados", "html", "javascript", "js", "ligar", "limpo", "minimo", "minimalista"]
+        }
+    }
+}
