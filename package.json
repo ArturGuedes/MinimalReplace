@@ -3,7 +3,7 @@
     "title": "Minimal Replace",
     "description": "Have super clean HTML by dynamically inserting content into your code and generate a unified file with Minimal Replace.",
     "homepage": "https://github.com/ArturGuedes/MinimalReplace",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": {
         "name": "Artur Guedes",
         "url": "https://github.com/ArturGuedes"

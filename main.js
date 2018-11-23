@@ -52,7 +52,7 @@ define(function (require, exports, module) {
         '        <h2>from the {{::planet}}</h2>\n' +
         '        <p><i>This is an example page of Minimal Replace, for more information, find us on <a href=\"{{::mr-link}}\">Github</a></i></p>\n' +
         '    </div>\n' +
-        '    <script src=\"index.js\"></script>\n' +
+        '    <script src=\"example.js\"></script>\n' +
         '    <script src=\"https://arturguedes.github.io/MinimalReplace/js/minimalreplace.min.js\"></script>\n' +
         '</body>\n' +
         '</html>';
