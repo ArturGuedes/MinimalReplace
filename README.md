@@ -1,10 +1,10 @@
 # Minimal Replace
 _Dynamically insert to content into your HTML with `{{::syntax}}` to generate a unified file with the brackets extension. Keep the HTML super clean with Minimal Replace._
 
-[![Version](https://badges.ml/arturguedes.minimaldark/version.svg)](https://brackets-extension-badges.github.io#arturguedes.minimaldark)
-[![Downloads](https://badges.ml/arturguedes.minimaldark/total.svg)](https://brackets-extension-badges.github.io#arturguedes.minimaldark)
-[![GitHub license](https://img.shields.io/github/license/ArturGuedes/MinimalDark.svg)](https://github.com/ArturGuedes/MinimalDark/blob/master/LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ArturGuedes/MinimalDark.svg)]()
+[![Version](https://badges.ml/arturguedes.replace/version.svg)](https://brackets-extension-badges.github.io#arturguedes.replace)
+[![Downloads](https://badges.ml/arturguedes.replace/total.svg)](https://brackets-extension-badges.github.io#arturguedes.replace)
+[![GitHub license](https://img.shields.io/github/license/ArturGuedes/MinimalReplace.svg)](https://github.com/ArturGuedes/MinimalReplace/blob/master/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ArturGuedes/MinimalReplace.svg)]()
 
 
 ## Getting Started
